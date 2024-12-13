@@ -6,7 +6,7 @@ Olá! sou Danilo  Mateus
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Danilo-Mateus)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Danilo-Mateus&theme=tokyonight&show_icons=true" />
 
 
 MINHAS HABILIDADES:
