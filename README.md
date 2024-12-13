@@ -1,7 +1,7 @@
 Olá! sou Danilo  Mateus
 
-- 🔭 Estou trabalhando com javascript.
-- 🌱 Estou estudando typescript.
+- 🔭 Estou trabalhando com desenvolvimento web.
+- 🌱 Estou estudando para ser desenvolvedor full-stack.
 - ⚡  Amo programar e aprender coisas novas.
 
 
