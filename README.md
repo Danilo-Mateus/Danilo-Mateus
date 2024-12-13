@@ -5,10 +5,9 @@ Olá! sou Danilo  Mateus
 - ⚡  Amo programar e aprender coisas novas.
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Danilo-Mateus&theme=radical&mode=weekly" />
- </div>
- </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Danilo-Mateus)](https://git.io/streak-stats)
+
 
 MINHAS HABILIDADES:
 <br>
